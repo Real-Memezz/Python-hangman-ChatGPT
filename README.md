@@ -3,3 +3,5 @@ This is an hang man code made with chat gpt. I was just messing around and got t
 I chose python and it gave me this code.
 So i decided to share it.
 Do what you want with this no credit required.
+This code will be update by chat GPT every few days and so or maybe few weeks.
+Thats all
